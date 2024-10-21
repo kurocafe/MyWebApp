@@ -8,4 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # MyWebApp
-practice React
+Reactの練習
+
+## 概要
+好きなゲームのサイトっぽく作ってみた。
+
+学園別にページを移動とかできるようにしたい。
+
+## 参考元
+Blue Archive
