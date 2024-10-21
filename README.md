@@ -16,4 +16,4 @@ Reactの練習
 学園別にページを移動とかできるようにしたい。
 
 ## 参考元
-Blue Archive
+[Blue Archive](https://bluearchive.jp/)
